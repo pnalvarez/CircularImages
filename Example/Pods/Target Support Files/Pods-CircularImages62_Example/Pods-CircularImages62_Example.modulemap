@@ -1,0 +1,6 @@
+framework module Pods_CircularImages62_Example {
+  umbrella header "Pods-CircularImages62_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

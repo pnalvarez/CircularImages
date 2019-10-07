@@ -1,0 +1,16 @@
+PODS:
+  - CircularImages62 (0.1.0)
+
+DEPENDENCIES:
+  - CircularImages62 (from `../`)
+
+EXTERNAL SOURCES:
+  CircularImages62:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CircularImages62: 229bde6601a6caa8d1a6008e090b7e531435ddc7
+
+PODFILE CHECKSUM: 76fbf1037aa3576afb5f72d67b7dacb4d3130c97
+
+COCOAPODS: 1.8.0

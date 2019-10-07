@@ -1,0 +1,6 @@
+framework module CircularImages62 {
+  umbrella header "CircularImages62-umbrella.h"
+
+  export *
+  module * { export * }
+}

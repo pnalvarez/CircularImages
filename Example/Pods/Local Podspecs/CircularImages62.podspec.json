@@ -1,0 +1,22 @@
+{
+  "name": "CircularImages62",
+  "version": "0.1.0",
+  "summary": "A short description of CircularImages62.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/pnalvarez/CircularImages62",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "pnalvarez": "pedronalvarez@hotmail.com"
+  },
+  "source": {
+    "git": "https://github.com/pnalvarez/CircularImages62.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CircularImages62/Classes/**/*"
+}
